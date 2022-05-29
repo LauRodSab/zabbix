@@ -104,6 +104,7 @@ sudo systemctl enable zabbix-server zabbix-agent apache2
  **Doy clic en Next step 2 veces**
  
 ![imagen](/imagenes/imagen14a.png)
+
  
 ![imagen](/imagenes/imagen14b.png)
  
@@ -156,12 +157,14 @@ sudo systemctl enable zabbix-server zabbix-agent apache2
 **Doy clic en Create application, en Name pongo WEBSITE y doy clic en Add**
 
 ![imagen](/imagenes/imagen16a.png)
+
  
 ![imagen](/imagenes/imagen16b.png)
  
 **Doy clic en Web scenarios y en Create web scenario**
 
-![imagen](/imagenes/imagen17.png)
+![imagen](/imagenes/imagen17a.png)
+
  
 ![imagen](/imagenes/imagen17b.png)
  
@@ -172,6 +175,7 @@ sudo systemctl enable zabbix-server zabbix-agent apache2
 **En Monitoring le doy clic en Web y en IESDPM**
 
 ![imagen](/imagenes/imagen19a.png)
+
  
 ![imagen](/imagenes/imagen19b.png)
 
